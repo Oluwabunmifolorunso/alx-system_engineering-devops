@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello Oluwabunmi" 
+echo "hello $(id -un)" 
